@@ -1,4 +1,4 @@
-easy-rule-demo
+# easy-rule-demo
 规则引擎之EasyRules 什么是EasyRules 首先EasyRule是一个规则引擎
 1 pom.xml
       <dependency>
